@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Globalization;
 
+// Biblioteca Scolastica - Gestione di libri e informazioni
+//vittorio gabbrielli 4 i 
 namespace Biblioteca
 {
     internal class Program
